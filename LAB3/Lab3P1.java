@@ -1,6 +1,6 @@
-Import java.util.Scanner;
+import java.util.Scanner;
 
-ClassLab3P1{
+class Lab3P1{
 public static void main(String...args) {
         Scanner s = new Scanner (System.in);
         int n = s.nextInt();
@@ -26,3 +26,4 @@ public static void main(String...args) {
         }
     }
 }
+
