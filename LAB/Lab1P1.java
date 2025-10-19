@@ -57,9 +57,9 @@ class Lab1P1{
 		System.out.println("--------BOOLEAN-------");
 		boolean f=0;
 		Boolean bol=f;
-		System.out.println(Boolean.MAX_VALUE);
-		System.out.println(bol.MIN_VALUE);
-		System.out.println(bol.SIZE);
+		//System.out.println(Boolean.MAX_VALUE);
+		//System.out.println(bol.MIN_VALUE);
+		//System.out.println(bol.SIZE);
 		System.out.println(bol.TYPE);
 		//System.out.println(bol.INTEGERS);
 	}
