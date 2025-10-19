@@ -8,6 +8,7 @@ class LAB2P2 {
         x = y;
         System.out.println("O/p is: " + (x++ + ++x));
         x = y;
-        System.out.println("O/p is: " + x + + + + + x + " : o/p is"); // Note: x+++++x is likely a typo, interpreted as x++ + ++x
+        System.out.println("O/p is: " + x + + + + + x ); // Note: x+++++x is likely a typo, interpreted as x++ + ++x
     }
+
 }
